@@ -2,23 +2,28 @@ li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  text-align: center;
 }
 
 .label {
   font-weight: bold;
+  text-align: center;
 }
 
 .create-update-form {
   padding: 5px;
   margin: 5px;
   background: aqua;
+  text-align: center;
 }
 
 .form-group {
   margin-bottom: 5px;
+  text-align: center;
 }
 
 
 body{
   background-color: cadetblue;
+  text-align: center;
 }
