@@ -9,3 +9,6 @@ VALUES
     ('Triple', false),
     ('Brisket', false),
     ('Bacon', false);
+    
+    select * burgers_db.burgers;
+    
